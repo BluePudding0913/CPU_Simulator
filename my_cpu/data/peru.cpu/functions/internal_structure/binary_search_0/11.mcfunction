@@ -1,0 +1,2 @@
+execute if block 5 5 11 stone positioned ~-32 ~ ~ run function peru.cpu:internal_structure/binary_search_0/12
+execute unless block 5 5 11 stone positioned ~ ~ ~ run function peru.cpu:internal_structure/binary_search_0/12
